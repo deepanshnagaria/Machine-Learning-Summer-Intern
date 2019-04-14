@@ -1,5 +1,5 @@
 # Machine-Learning-Summer-Intern
-Introduction
+## Introduction
 
 Trafﬁc information, such as trafﬁc incidents and real-time trafﬁc status, plays a fundamental role in improving the efﬁciency of Intelligent Transportation Systems (ITS). Conventionally, trafﬁc information is obtained from physical sensors like GPS, cameras, or loop detectors. Recently Social media has also been regarded as the potential source to serve as social sensors to extract trafﬁc information, since people and authoritative agencies often post transportation information online with the popularity of such platforms. As these platforms have a great number of real-time user generated contents, they have become powerful and inexpensive information sources. Nowadays use of social media is quite common and Twitter is one of the prominent social media sites currently. In 2018 more than 336 million active bloggers were recorded on Twitter monthly. The information these Tweets provide can be used for a variety of tasks such as prediction of a person’s influence in an area, predicting weather, people’s reviews, problems and disaster management.
 
